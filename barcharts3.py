@@ -11,7 +11,6 @@ y2 = [7, 8, 2, 4, 2]
 plt.bar(x, y, label='Bars 1', color='r')
 plt.bar(x2, y2, label='Bars 2', color='c')
 
-
 plt.xlabel('x')
 plt.ylabel('y')
 
